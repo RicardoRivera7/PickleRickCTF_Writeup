@@ -1,4 +1,4 @@
-# PickleRickCTF_Writeup
+# Pickle RickCTF Walkthrough
 A Tryhack me CTF writeup for the Pickle Rick room
 
 <p align="left">
