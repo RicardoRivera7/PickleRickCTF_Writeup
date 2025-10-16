@@ -1,7 +1,9 @@
 # Pickle Rick CTF Walkthrough
 A Tryhack me CTF writeup for the Pickle Rick room
 
-Room Link: https://tryhackme.com/room/picklerick <br/>
+Room Link: https://tryhackme.com/room/picklerick
+<br/>
+<br/>
 
 <p align="left">
 First Open the attackbox on the site and Navigate to the Target IP they give you (In my case it was 10.201.68.99) <br/>
